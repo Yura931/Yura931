@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 유용한 링크모음
+> - ERD
+>   1. [루시드차트](https://lucid.app/users/login#/login?folder_id=recent)
+>   2. [ERDCloud](https://www.erdcloud.com/)
+> - GIT
+>   1. [Learn Git Branch](https://learngitbranching.js.org/?locale=ko)
+> - IMAGE HOSTING
+>   1. [Postimages](https://postimages.org/  )
